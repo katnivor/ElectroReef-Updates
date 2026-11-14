@@ -1,6 +1,6 @@
 {
-  "version": "36",
-  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v36/ElectroReef_v36_Actualizacion.zip",
-  "sha256": "397746972c915a72126f6fe0432590c2b186ac5a8d6737b279b42e98b3a3cd67",
-  "notes": "Mejoras en copias de seguridad y notificaciones de Windows."
+  "version": "35",
+  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v35/ElectroReef_Update_v35.zip",
+  "sha256": "fcab59c9155a0b4b7c53bcedebfb78d82d12d621461bfe8140800b8c3d948301",
+  "notes": "Nuevo icono de aplicación y ventana principal ampliada 5 cm en altura."
 }
