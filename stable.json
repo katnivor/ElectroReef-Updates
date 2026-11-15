@@ -1,6 +1,6 @@
 {
-  "version": "40",
-  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v40/ElectroReef_Update_v40.zip",
-  "sha256": "99e8164f6fcd65afd711179c594508360b4e3ff271d308f8141ebe9e2a5067f6",
+  "version": "40.1",
+  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v40.1/ElectroReef_Update_v40.1.zip",
+  "sha256": "d5a16289400d5977e8c5a5eb26d2b97b3416b14d332367f160f170d2b96ab7fb",
   "notes": "# CHANGELOG - Electro Reef v40 ## Correo SMTP - Se fuerza la autenticación SMTP AUTH LOGIN para evitar una selección automática de mecanismo que pueda provocar incompatibilidades. - Se separan y diagnostican las fases de conexión, EHLO, TLS, autenticación y envío. - Los errores muestran la fase y el código SMTP cuando el servidor responde. - No se registran contraseñas ni respuestas de autenticación. ## Interfaz - Se reorganiza el formulario SMTP en filas completas para evitar campos comprimidos. - Los botones de correo y notificaciones se expanden de forma proporcional. - Se reduce el tamaño mínimo de la ventana para mejorar la adaptación a pantallas más estrechas. ## Compatibilidad - Se conserva la base funcional de v39 y sus módulos de Apex, históricos, mediciones y almacenamiento."
 }
