@@ -1,6 +1,6 @@
 {
-  "version": "37",
-  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v37/ElectroReef_Update_v37.zip",
-  "sha256": "bfc1853f368a0012bf65073c031bd11d4bce2cd0d840410afc82c8053504d180",
-  "notes": "Añade un botón visible para probar las notificaciones de Windows desde la configuración. Mantiene la prueba desde la bandeja del sistema y muestra la fecha y hora de la última copia de seguridad."
+  "version": "38",
+  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v38/ElectroReef_Update_v38.zip",
+  "sha256": "c5288b684c3c43be713b8bbf9bf50313713551c771850c65b1df6278aac09dcd",
+  "notes": "## Novedades - Describe aquí los cambios incluidos en esta versión. ## Correcciones - Describe aquí las correcciones y mejoras."
 }
