@@ -1,6 +1,6 @@
 {
-  "version": "38",
-  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v38/ElectroReef_Update_v38.zip",
-  "sha256": "c5288b684c3c43be713b8bbf9bf50313713551c771850c65b1df6278aac09dcd",
-  "notes": "## Novedades - Describe aquí los cambios incluidos en esta versión. ## Correcciones - Describe aquí las correcciones y mejoras."
+  "version": "38.1",
+  "download_url": "https://github.com/katnivor/ElectroReef-Updates/releases/download/v38.1/ElectroReef_Update_v38.1.zip",
+  "sha256": "6c9f67b06c9ff86806a8a54df4cb8f113bb047f1379f30e2dc3bf589ad950c69",
+  "notes": "--- Correcciones --- -Selector de puerto Gmail."
 }
